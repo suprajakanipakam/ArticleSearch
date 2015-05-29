@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArticleSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Math</string>
+    <string name="Math">ClickMe</string>
+    <string name="title_activity_math">Math</string>
+
+</resources>
